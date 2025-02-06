@@ -16,6 +16,8 @@ Three layers where applied and details can be seen below:
 * Total 477 parameters were generated. 
 #### Were you able to achieve the target model performance?
 <img width="472" alt="Screenshot 2" src="https://github.com/RunningWomann/Challenge21_DeepLearning/assets/126307180/d25ac5bd-477b-4516-b1b7-fa9109edeed6">
+
+####
 * Model accuracy is 73%, below the 75% desired value.
-## Summary
+#### Summary
 * Adding multipal layers could improve the accuracy of machine leaning. Also, adjust the input data to ensure that no variables or outliers are causing confusion in the model could improve the target predictive accuracy. 
